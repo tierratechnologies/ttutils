@@ -1,4 +1,4 @@
-package ttutilarr
+package arrutil
 
 func ContainsStr(a []string, x string) bool {
 	for _, n := range a {
